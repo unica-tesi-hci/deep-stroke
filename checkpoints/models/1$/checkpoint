@@ -1,0 +1,2 @@
+model_checkpoint_path: "mdvarcp_robust.ckpt"
+all_model_checkpoint_paths: "mdvarcp_robust.ckpt"

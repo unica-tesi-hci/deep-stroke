@@ -1,0 +1,2 @@
+model_checkpoint_path: "rgcp_robust.ckpt"
+all_model_checkpoint_paths: "rgcp_robust.ckpt"

@@ -44,7 +44,7 @@ class GestuReNN:
         self.loss_clf = 'sparse_categorical_crossentropy'
         self.loss_reg = 'mse'
         self.batch_size = 128
-        self.epochs = 250
+        self.epochs = 1000
         self.opt = tf.keras.optimizers.Adam(lr=1e-4, decay=1e-5, beta_1=0.8, beta_2=0.85)
 
         # Setting up checkpoint root
